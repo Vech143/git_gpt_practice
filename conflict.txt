@@ -1,1 +1,5 @@
-this is the new line in the feature B
+<<<<<<< HEAD
+this is the line in both features
+=======
+this is the line in both features
+>>>>>>> feature-A
